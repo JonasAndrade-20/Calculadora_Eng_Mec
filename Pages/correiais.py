@@ -1,7 +1,7 @@
 import streamlit as st
 import math
 
-st.title("Dimensionamento de Correiais ⚙️")
+st.title("Dimensionamento de Correias ⚙️")
 st.image("Pages/correiais_img.png", width=1500)
 st.markdown("""
     Este aplicativo permite calcular o comprimento de correias para polias motora e movida.
