@@ -5,7 +5,7 @@ import math
 #st.title("Calculadoras de Engenharia ⚙️")
 
 pages = {"Calculadoras de Engenharia":
-    [st.Page("Pages/correiais.py", title="Dimensionamento de Correiais", icon="⚙️"),
+    [st.Page("Pages/correiais.py", title="Dimensionamento de Correias", icon="⚙️"),
     st.Page("Pages/rolamento.py", title="Lubrificação de Rolamentos", icon="⚙️"),
 ]}
 
