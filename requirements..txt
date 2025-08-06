@@ -1,6 +1,0 @@
-streamlit
-math
-fractions
-matplotlib.pyplot
-numpy
-plotly
