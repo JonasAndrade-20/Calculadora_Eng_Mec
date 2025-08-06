@@ -6,8 +6,8 @@ import math
 
 pages = {"Calculadoras de Engenharia":
     [st.Page("Pages/correiais.py", title="Dimensionamento de Correias", icon="⚙️"),
-    st.Page("Pages/rolamento.py", title="Lubrificação de Rolamentos", icon="⚙️"),
-    st.Page("Pages/transmissao.py", title="Relação de Transmissão - Correias", icon="⚙️"),
+     st.Page("Pages/transmissao.py", title="Relação de Transmissão - Correias", icon="⚙️"),
+    st.Page("Pages/rolamento.py", title="Lubrificação de Rolamentos", icon="⚙️"),   
 ]}
 
 pg=st.navigation(pages)
