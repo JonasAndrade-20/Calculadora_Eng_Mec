@@ -3,4 +3,4 @@ math
 fractions
 matplotlib.pyplot
 numpy
-plotly.express
+plotly

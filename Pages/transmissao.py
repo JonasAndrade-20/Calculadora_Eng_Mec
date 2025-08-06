@@ -26,5 +26,6 @@ if st.button("Realizar Cálculo"):
                 "y": "Rotação da polia movida (RPM)"},
                 title="Relação da Rotação da Polia Movida em função do Diâmetro",
                 markers=True)
+    fig.update_traces(line=dict(color="green"))
     st.plotly_chart(fig)
     
