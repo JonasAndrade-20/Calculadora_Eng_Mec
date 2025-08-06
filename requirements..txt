@@ -1,2 +1,4 @@
 streamlit
 math
+fractions
+matplotlib.pyplot
